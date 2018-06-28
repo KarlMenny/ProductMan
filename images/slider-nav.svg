@@ -1,0 +1,16 @@
+<svg id="slider-nav.svg" xmlns="http://www.w3.org/2000/svg" width="51" height="11" viewBox="0 0 51 11">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e10011;
+      }
+
+      .cls-2 {
+        fill: #303030;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="5.5" cy="5.5" r="5.5"/>
+  <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-2" cx="25.5" cy="5.5" r="5.5"/>
+  <circle id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" class="cls-2" cx="45.5" cy="5.5" r="5.5"/>
+</svg>
